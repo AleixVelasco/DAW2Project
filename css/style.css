@@ -1,0 +1,73 @@
+html,body{
+  font-family: 'Raleway', sans-serif !important;
+  background-color: #eee !important;
+  /*background-image: url("../images/back.jpg") !important;*/
+}
+
+
+.footer{
+  background-color: #fff;
+  padding: 5vh 0vw;
+  margin-top: 5vh;
+
+}
+.img-link-footer{
+  height: 5vh;
+}
+
+main {
+  padding-top: 60px;
+}
+
+
+.titulo{
+  color: #5cb85c !important;
+}
+.message{
+  color: white;
+  padding: 18px 20px;
+  line-height: 26px;
+  font-size: 16px;
+  border-radius: 7px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  width: 100%;
+  position: relative;
+  background-color: #5cb85c;
+}
+
+
+
+
+.icon{
+  height: 50px;
+  width: 50px;
+}
+.img-profile{
+  height: 250px;
+  width: 250px;
+  background-color: #333;
+}
+.nopadding{
+  padding: 0px;
+}
+.marginbottom{
+  margin-bottom: 10px;
+}
+
+#login{
+  background-color: #eee !important;
+  width: 250px;
+  padding: 20px;
+}
+.img-slider{
+  width: 90vw;
+  height: 20vh;
+  margin: 0vh 5vw;
+}
+
+
+.dropdown:hover .dropdown-menu {
+    display: block !important;
+    margin: auto !important;
+}
